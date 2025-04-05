@@ -60,7 +60,6 @@ Aoyuki, our serene anime-themed mascot, watches over time from the city skyline.
 
 
 
-
 <!-- # .
 
 This template should help get you started developing with Vue 3 in Vite.
