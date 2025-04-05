@@ -23,7 +23,7 @@ Aoyuki watches over time from the city skyline, ensuring you never lose track of
 - **Deployment:** Vercel / Netlify
 
 ## 📸 Preview
-> Screenshot or a deployed link goes here
+> ![Screenshot](src/assets/ss_1.png)
 
 ## 🔧 Installation
 
@@ -49,7 +49,7 @@ npm run dev
 We welcome contributions! Feel free to submit pull requests, report issues, or suggest improvements.
 
 ## 📜 License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
 
 ## 🎭 Special Thanks
 Aoyuki, our serene anime-themed mascot, watches over time from the city skyline. 🏙️✨
